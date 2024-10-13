@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Config>
+	<ReachAllApplicationSettings>
+		<Files>
+			<File>Database Utilities.exe</File>
+			<File>ReachAll Viewer.exe</File>
+			<File>ReachAllOptionSettings.txt</File>
+			<File>ReachAllReportSettings</File>
+      <File>reachallReportStyleSheet.xml</File>
+      <File>CDS\IpPbxCDSClientLib.dll</File>
+			<File>CDS\IpPbxCDSClientLib.XmlSerializers.dll</File>
+			<File>CDS\IpPbxCDSSharedLib.dll</File>
+			<File>CDS\IpPbxTracing.dll</File>
+			<File>CDS\IpPbxWin32.dll</File>
+			<File>CDS\Xceed.Compression.dll</File>
+		</Files>
+	</ReachAllApplicationSettings>
+</Config>

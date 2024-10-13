@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <ReachAllApplicationSettings>
+    <Files>
+      <File>ReachAllWebInterface/ReachAllReportStyleSheet.css</File>
+      <File>ReachAllWebInterface/ReachAllReportStyleSheetNewInterface.css</File>
+      <File>Database Utilities.exe</File>
+      <File>ReachAll Viewer.exe</File>
+      <File>ReachAllOptionSettings.txt</File>
+      <File>ReachAllReportSettings.xml</File>
+      <File>reachallReportStyleSheet.css</File>
+      <File>iconalpha.ico</File>
+      <File>sort.js</File>
+      <File>ReachAllService.exe</File>
+      <File>CDS\IpPbxCDSClientLib.dll</File>
+      <File>CDS\IpPbxCDSClientLib.XmlSerializers.dll</File>
+      <File>CDS\IpPbxCDSSharedLib.dll</File>
+      <File>CDS\IpPbxTracing.dll</File>
+      <File>CDS\IpPbxWin32.dll</File>
+      <File>CDS\Xceed.Compression.dll</File>
+      <File>Install Service.bat</File>
+      <File>Remove Service.bat</File>
+      <File>FormattedTimeToSeconds.sql</File>
+      <File>SafeDivide.sql</File>
+      <File>LoginFunction.sql</File>
+      <File>LoginFunctionCached.sql</File>
+      <File>SP_CACHE_LOGIN_DATA.sql</File>
+      <File>SafePercent.sql</File>
+      <File>ExtractLoginSeconds.sql</File>
+      <File>GetValueForName.sql</File>
+      <File>ExtractDrillDownDate.sql</File>
+      <File>ExtractDrillDownDateAndTime.sql</File>
+      <File>ExtractDrillDownTime.sql</File>
+      <File>TimeFormat.sql</File>
+    </Files>
+  </ReachAllApplicationSettings>
+</Config>
